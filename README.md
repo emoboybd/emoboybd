@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shahedur.bd
-- 👀 I’m interested in ...web programming, AI & machine learning
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @shahedur
+- 👀 I’m interested in ...web development, web design, web app building 
+- 🌱 I’m currently learning ...React JS
+- 💞️ I’m looking to collaborate on ... web application 
 - 📫 How to reach me ...shakilrahman6@gmail.com
 
 <!---
